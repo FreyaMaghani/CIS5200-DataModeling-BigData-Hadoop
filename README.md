@@ -1,1 +1,1 @@
-# CIS5200-DataModeling-BigData-MapRduce
+# CIS5200-DataModeling-BigData-MapReduce
